@@ -1,0 +1,49 @@
+# SSMU MiniCourses - Introduction to Java
+
+## Variables, Lists and Loops I
+
+### Creating and manipulating variables
+
+#### Short questions
+
+Determine if each of the following is true or false, and in either case, explain your reasoning.
+
+- `int` is a __reference__ variable type.
+- You can use the - operator (subtraction) on a String to achieve __concatenation__.
+- Primitive types are __numerical__ types.
+- A __method__ is the top-level container of our code.
+- A __class__ must always have the same name as the file it is in.
+
+#### Code analysis question
+
+Errors are present in the following snippet of code. Find, identify and correct those errors. Make sure to be able to justify why they are errors.
+
+```java
+public class HelloClass {
+
+  public void main(String[] arg) {
+    INT a = 1
+    double b = 2;
+    
+    System.out.println('a + b = ' + (a + b));
+    
+    String = "Hello, World";
+    System.out.println(helloWorld);
+  }
+
+```
+
+#### Programming questions
+
+__Problem 1__
+
+Put together a short program that will calculate the tax on the price of three items part of a single purchase, respectively priced at 15$, 10$ and 19$, given that the tax rate is 15%. You can start using this [stub]() if you aren't sure of how to start off. The output of your program should be printed nicely and as a full sentence.
+
+### Creating and manipulating arrays
+
+#### Short questions
+
+#### Code analysis questions
+
+#### Programming questions
+
