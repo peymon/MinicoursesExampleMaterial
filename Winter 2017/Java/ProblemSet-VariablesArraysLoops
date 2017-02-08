@@ -37,7 +37,19 @@ public class HelloClass {
 
 __Problem 1__
 
-Put together a short program that will calculate the tax on the price of three items part of a single purchase, respectively priced at 15$, 10$ and 19$, given that the tax rate is 15%. You can start using this [stub]() if you aren't sure of how to start off. The output of your program should be printed nicely and as a full sentence.
+Put together a short program that will calculate the tax on the price of three items part of a single purchase, respectively priced at 15$, 10$ and 19$, given that the tax rate is 15%. You can start using the stub below if you aren't sure of how to start off. The output of your program should be printed nicely and as a full sentence.
+
+```java
+public class taxCalculations {
+  public static void main(String[] args) {
+    double price1 = 15;
+    double price2 = 10;
+    double price3 = 19;
+    
+    //Your code starts here!
+  }
+}
+```
 
 ### B - Creating and manipulating arrays
 
