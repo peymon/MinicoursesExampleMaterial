@@ -65,6 +65,18 @@ What is the content of each array after the following statements are executed?
 - `myNumbers[5] = myCharacters[0];`
 - `myNumbers[0] = myNumbers.length;`
 - `myCharacters[0] = myCharacters[1]`
+- `myCharacters = new char[10];`
 
 #### Programming questions
 
+Starting from the code snippet below, build a program that will convert the temperatures given in the `celsius` array into Kelvin and Fahrenheit degrees. Make sure to store your results in arrays as well. The position of an element in the `celsius` array should match the position of its equivalents in the other arrays.
+
+```java
+public class myTemperatureArrays {
+  public static void main(String[] args) {
+    double[] celsius = {26.5, 10.0, 0.0, 65};
+    
+    //Your code should start here!
+  }
+}
+```
