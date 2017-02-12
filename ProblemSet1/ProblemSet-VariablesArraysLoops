@@ -30,7 +30,7 @@ public class HelloClass {
     String = "Hello, World"; //missing name. should be helloWorld
     System.out.println(helloWorld);
   }
-} //closing bracket
+} //closing bracket missing 
 ```
 
 #### Programming questions
