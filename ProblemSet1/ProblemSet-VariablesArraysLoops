@@ -27,7 +27,7 @@ public class HelloClass {
     
     System.out.println('a + b = ' + (a + b)); //use “
     
-    String = "Hello, World"; //missing name. should be helloworld
+    String = "Hello, World"; //missing name. should be helloWorld
     System.out.println(helloWorld);
   }
 } //closing bracket
